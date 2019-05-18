@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args ) {
 
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+        int n = scanner.nextInt(); //ile chce wygenerowac wyrazow
         int a1= scanner.nextInt();
         int d = scanner.nextInt();
         int ciag = 0;
